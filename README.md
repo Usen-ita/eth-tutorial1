@@ -18,4 +18,4 @@ Once you run the migrations, you can interacts with your smart contract in the t
  - truffle has a lot of commands. just type 'truffle' in your terminal and it will list out all the available commands.
 
  ## emergency safe
- - you get stuck - what this - https://www.youtube.com/watch?v=M-w6dDDhu6w&list=PLbbtODcOYIoFyMZGna6F8uJrfnYVQ3Jcr 
+ - you get stuck - watch this - https://www.youtube.com/watch?v=M-w6dDDhu6w&list=PLbbtODcOYIoFyMZGna6F8uJrfnYVQ3Jcr 
